@@ -1,0 +1,5 @@
+.env
+.env.*
+!.env.example
+task/
+.DS_Store
